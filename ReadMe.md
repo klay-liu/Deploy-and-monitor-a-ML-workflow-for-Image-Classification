@@ -59,10 +59,12 @@ We used a sample dataset called CIFAR to simulate the challenges Scones Unlimite
 
 ## Visualization
 
-![observed recent inferences](observed recent inferences.png)
+
+
+![observed_recent_inferences](observed_recent_inferences.png)
 
 ​																					Fig 2. Observed Recent Inferences
 
-![the count of execution](the count of execution(metnon-met).png)
+![the_count_of_execution](the_count_of_execution.png)
 
 ​																					Fig 3. The count of execution
